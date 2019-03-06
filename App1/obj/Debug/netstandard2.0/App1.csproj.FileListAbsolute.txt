@@ -1,0 +1,16 @@
+C:\gitsamples\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+C:\gitsamples\App1\App1\bin\Debug\netstandard2.0\App1.dll
+C:\gitsamples\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+C:\gitsamples\App1\App1\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\gitsamples\App1\App1\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\gitsamples\App1\App1\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\gitsamples\App1\App1\obj\Debug\netstandard2.0\AcquirePage.xaml.g.cs
+C:\gitsamples\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\gitsamples\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\gitsamples\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+C:\gitsamples\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+C:\gitsamples\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+C:\gitsamples\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CopyComplete
+C:\gitsamples\App1\App1\obj\Debug\netstandard2.0\App1.dll
+C:\gitsamples\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+C:\gitsamples\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
